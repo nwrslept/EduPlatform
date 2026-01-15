@@ -1,0 +1,8 @@
+fastapi[all]
+sqlalchemy
+alembic
+asyncpg
+pydantic-settings
+uvicorn
+python-jose[cryptography]
+passlib[bcrypt]
